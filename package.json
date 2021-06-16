@@ -1,6 +1,6 @@
 {
   "name": "@holo-host/identicon",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Javascript package for generating identicons from holo hashes",
   "main": "index.js",
   "scripts": {
