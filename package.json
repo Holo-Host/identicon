@@ -1,0 +1,11 @@
+{
+  "name": "@holo-host/identicon",
+  "version": "0.0.1",
+  "description": "Javascript package for generating identicons from holo hashes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robbie Carlton <robbie.carlton@holo.host>",
+  "license": "ISC"
+}
