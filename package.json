@@ -10,6 +10,7 @@
   "author": "Robbie Carlton <robbie.carlton@holo.host>",
   "license": "ISC",
   "files": [
-    "index.js"
+    "index.js",
+    "types.d.ts"
   ]
 }
