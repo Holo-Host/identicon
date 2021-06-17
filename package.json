@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Javascript package for generating identicons from holo hashes",
   "main": "index.js",
-  "typings": "types.d.ts",
+  "types": "types.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
