@@ -11,11 +11,11 @@ yarn add @holo-host/identicon
 ## Usage
 
 ```html
-  <canvas id='identicon' width="1" height="1" />
+  <canvas id="identicon" width="1" height="1" />
 ```
 
 ```javascript
-import renderIcon from 'holo-identicon'
+import renderIcon from '@holo-host/identicon'
 
 const canvas = document.getElementBy('identicon')
 const opts = {
